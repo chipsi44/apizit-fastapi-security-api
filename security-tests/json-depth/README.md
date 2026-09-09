@@ -34,4 +34,3 @@ pas un budget global lors d'une campagne multi-instance.
 Les cas synthétiques exacts (bornes, contenu tronqué, valeurs invalides) sont
 reproductibles via `pytest -q tests/test_api.py`. Le client de test est en mémoire ;
 il ne mesure pas les limites du serveur HTTP ni d'API Gateway.
-

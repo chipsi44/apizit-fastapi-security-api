@@ -30,4 +30,3 @@ utiliser un environnement jetable, commencer par un appel et ne pas utiliser
 de load generator. Pas de production, de paiement, de données réelles, de
 lecture de secrets ou de cible tierce. Le plafond par processus ne remplace
 pas un budget global lors d'une campagne multi-instance.
-

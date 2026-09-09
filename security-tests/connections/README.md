@@ -36,4 +36,3 @@ Local uniquement : lancer `python tools/peer.py`, puis démarrer l'API avec
 plus 100 cycles avec timeout et ne crée aucune ressource cloud. Les redirects et
 proxies sont désactivés. Aucune URL, aucun header d'authentification et aucun body
 du client ne sont transmis. Le peer local n'est pas un service hébergé APIZIT.
-
